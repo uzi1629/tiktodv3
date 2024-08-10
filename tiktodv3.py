@@ -264,3 +264,4 @@ elif auto == 5:
     
 else:
     print(f"{auto} is not a valid option. Please pick 1, 2, 3, 4 or 5")
+/input()
